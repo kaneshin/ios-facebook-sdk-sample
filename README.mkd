@@ -3,7 +3,7 @@
 This repository contains the source code for the App with Facebook-SDK.
 
 
-## Building
+## Prerequisite
 
 The build requires [CocoaPods](https://github.com/cocoapods/cocoapods) to be installed in your development environment.
 
